@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="64" y1="48" x2="448" y2="464" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FAF5EC"/>
+      <stop offset="100%" stop-color="#EDE2FA"/>
+    </linearGradient>
+    <linearGradient id="arcGrad" x1="96" y1="360" x2="416" y2="152" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7E9AB8"/>
+      <stop offset="50%" stop-color="#9A8AC4"/>
+      <stop offset="100%" stop-color="#BACABE"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#bgGrad)"/>
+  <circle cx="256" cy="256" r="184" stroke="url(#arcGrad)" stroke-width="24" stroke-linecap="round" stroke-dasharray="920 260" transform="rotate(-25 256 256)"/>
+  <path d="M126 312c38-94 118-140 202-122 36 8 64 30 82 62 16-6 34-4 46 8-12 18-28 28-46 30-16 68-74 114-148 114-64 0-118-38-136-92z" fill="#FAF5EC" stroke="#313A46" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M214 218c-36-42-22-104 30-124 14 44 38 76 74 92" fill="#BACABE" stroke="#313A46" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M360 306c28-14 58-14 82 2-20 24-50 34-82 26" fill="#E8C66A" stroke="#313A46" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="348" cy="240" r="11" fill="#313A46"/>
+</svg>

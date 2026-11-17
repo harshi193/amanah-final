@@ -1,0 +1,24 @@
+{
+  "id": "/",
+  "name": "Amanah Care Circle",
+  "short_name": "Amanah",
+  "description": "Calm, adaptive support connecting neurodivergent children with parents, educators, and therapists across UAE and India.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#F7EEDB",
+  "background_color": "#F7EEDB",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
